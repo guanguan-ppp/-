@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Alchemy AI",
+  "description": "An infinite crafting game where you fuse emojis to create new elements using Gemini AI.",
+  "requestFramePermissions": []
+}
